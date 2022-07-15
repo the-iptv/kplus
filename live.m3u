@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1, kplus_sport1hd
+https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+#EXTINF:-1, kplus_sport2hd
+https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+#EXTINF:-1, kplus_cinehd
+https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+#EXTINF:-1, kplus_lifehd
+https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
