@@ -1,10 +1,27 @@
-#EXTM3U
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 
-#EXTINF:-1, kplus_sport1hd
-https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1, kplus_sport2hd
-https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1, kplus_cinehd
-https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1, kplus_lifehd
-https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Không nên trộm cắp!
+https://hqth.me/khongnentromcap
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
+http://aisharelamcho.duckdns.org/aisharelamcho/KCINE1308.aslc/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
+http://aisharelamcho.duckdns.org/aisharelamcho/KLIFE1308.aslc/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
+http://aisharelamcho.duckdns.org/aisharelamcho/KSP11308.aslc/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD Server 2
+http://live.television4you.xyz:8081/LiveEvent/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD Server 3
+http://103.180.133.235/aisharelamcho/KSP11308.aslc/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
+http://aisharelamcho.duckdns.org/aisharelamcho/KSP21308.aslc/mpegts
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
+http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS1308.aslc/mpegts
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE SD
+http://103.170.246.191/CINE/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE SD
+http://103.170.246.191/LIFE/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 SD
+http://103.170.246.191/SPORT1/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 SD
+http://103.170.246.191/SPORT2/mpegts
