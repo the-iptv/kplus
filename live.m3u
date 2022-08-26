@@ -2,63 +2,26 @@
 #Tham gia group Zalo để nhận thông báo: https://zalo.me/g/nheudn518
 #Tổng số lượt click tính từ sáng 4/8: 1362
 
+
 #EXTINF:-1,K+ CINE
-http://103.125.191.95:80/play/ZMD2Wfupza5Dc41y-4oYvkV6ED-UnZIZZ8FlLxNXbq8/ts
+http://103.125.191.95:80/play/3TuV5_zyRa3HO1qxlEi2zpD7VrsjJ3n860mcwSjpfFzYmrcC1rCuxjeslYlRHu1C/ts
 #EXTINF:-1,K+ LIFE
-http://103.125.191.95:80/play/ZMD2Wfupza5Dc41y-4oYvsqTXLC9LXwrUPFjZnjy5Ic/ts
+http://103.125.191.95:80/play/3TuV5_zyRa3HO1qxlEi2zpD7VrsjJ3n860mcwSjpfFzVqE9rTCHrb0JRoxvDTJLZ/ts
 #EXTINF:-1,K+ SPORT1
-http://103.125.191.95:80/play/ZMD2Wfupza5Dc41y-4oYvkO_5rGn7LvOhRix4uKeejI/ts
+http://103.125.191.95:80/play/3TuV5_zyRa3HO1qxlEi2zpD7VrsjJ3n860mcwSjpfFwaxElhJ0grs4RBZppXKfdP/ts
 #EXTINF:-1,K+ SPORT2
-http://103.125.191.95:80/play/ZMD2Wfupza5Dc41y-4oYvvEMimNxF6gQ7JujHO_2_ZE/ts
+http://103.125.191.95:80/play/3TuV5_zyRa3HO1qxlEi2zpD7VrsjJ3n860mcwSjpfFyeTjoC6Gd9wddyel5Wi_ni/ts
+#EXTINF:-1,K+ CINE SV2
+http://103.125.191.95:80/play/3TuV5_zyRa3HO1qxlEi2zpD7VrsjJ3n860mcwSjpfFxfde0QYYtYrT7slqPTbtJc/ts
+#EXTINF:-1,K+ KIDS
+http://103.125.191.95:80/play/3TuV5_zyRa3HO1qxlEi2zpD7VrsjJ3n860mcwSjpfFyjp3avZGexSFB-JPnI0CMD/ts
+#EXTINF:-1,K+ LIFE SV2
+http://103.125.191.95:80/play/3TuV5_zyRa3HO1qxlEi2zpD7VrsjJ3n860mcwSjpfFzMWenor5vMWmocL0R6HcdJ/ts
+#EXTINF:-1,K+ SPORT1 SV2
+http://103.125.191.95:80/play/3TuV5_zyRa3HO1qxlEi2zpD7VrsjJ3n860mcwSjpfFxfkJEGuiJH8tFJgRxYJXhD/ts
+#EXTINF:-1,K+ SPORT2 SV2
+http://103.125.191.95:80/play/3TuV5_zyRa3HO1qxlEi2zpD7VrsjJ3n860mcwSjpfFx48Xt7mEJAnaP-L0frdM-p/ts
 
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/vthanhtiviplus.png", Không nên trộm cắp!
-https://hqth.me/khongnentromcap
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/vthanhtiviplus.png", Donate: https://me.momo.vn/vthanh
-https://hqth.me/khongnentromcap
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", Sự Kiện
-http://live.television4you.xyz:8081/LiveEvent/mpegts
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KKIDS1308.aslc/mpegts
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE SD
-http://103.179.188.40:8080/kcinesd
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE SD
-http://103.179.188.40:8080/klifesd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 SD
-http://103.179.188.40:8080/ksport1sd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ TV360" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://103.179.188.40:8080/ksport2sd
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://103.179.188.40:8080/kcine
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://103.179.188.40:8080/klife
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://103.179.188.40:8080/ksport1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ ClipTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://103.179.188.40:8080/ksport2
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://aisharelamcho.duckdns.org/aisharelamcho2/KCINE1708.aslc/mpegts
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://aisharelamcho.duckdns.org/aisharelamcho2/KLIFE1708.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://aisharelamcho.duckdns.org/aisharelamcho2/KSP11708.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MyK+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://aisharelamcho.duckdns.org/aisharelamcho2/KSP21708.aslc/mpegts
-
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ VieON (mở cuối tuần)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KCINE1308.aslc/mpegts
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ VieON (mở cuối tuần)" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KLIFE1308.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ VieON (mở cuối tuần)" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KSP11308.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ VieON (mở cuối tuần)" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD Server 2
-http://103.180.133.235/aisharelamcho/KSP11308.aslc/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ VieON (mở cuối tuần)" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://aisharelamcho.duckdns.org/aisharelamcho/KSP21308.aslc/mpegts
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",  VTVcab 1 - Vie Giải trí HD
