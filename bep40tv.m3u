@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+#EXTINF:-1,K+ CINE
+http://plus.vthanhtivi.pw/bep40tv/vt04peb/1.m3u8
+#EXTINF:-1,K+ LIFE
+http://plus.vthanhtivi.pw/bep40tv/vt04peb/2.m3u8
+#EXTINF:-1,K+ SPORT1
+http://plus.vthanhtivi.pw/bep40tv/vt04peb/3.m3u8
+#EXTINF:-1,K+ SPORT2
+http://plus.vthanhtivi.pw/bep40tv/vt04peb/4.m3u8
