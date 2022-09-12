@@ -274,6 +274,22 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1072743056
 http://live-vn.cvacetv.ga:9981/stream/channelid/1664862898
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title ="🍭| K+ thường" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://livevietanhtv.vinaddns.com:8080/livevietanh/kcinefhd
+#EXTINF:-1 tvg-id="klifehd" group-title ="🍭| K+ thường" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+LIFE HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://livevietanhtv.vinaddns.com:8080/livevietanh/klifefhd
+#EXTINF:-1 tvg-id="ksport1hd" group-title ="🍭| K+ thường" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT 1 HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://livevietanhtv.vinaddns.com:8080/livevietanh/k1fhd
+#EXTINF:-1 tvg-id="ksport2hd" group-title ="🍭| K+ thường" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT 2 HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://livevietanhtv.vinaddns.com:8080/livevietanh/k2fhd
+#EXTINF:-1 tvg-id="kkidshd" group-title ="🍭| K+ thường" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://livevietanhtv.vinaddns.com:8080/livevietanh/kkids
+
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD (DRM)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
