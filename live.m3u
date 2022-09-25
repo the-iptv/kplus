@@ -6,6 +6,58 @@
 
 
 
+
+#EXTINF:-1,K+ CINE
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/1.ts
+#EXTINF:-1,K+ KIDS
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/8.ts
+#EXTINF:-1,K+ LIFE
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/2.ts
+#EXTINF:-1,K+ SPORT1
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/3.ts
+#EXTINF:-1,K+ SPORT2
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/4.ts
+#EXTINF:-1,K+ LIVE 1 HD
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/13.ts
+#EXTINF:-1,K+ CINE SV2
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/16.ts
+#EXTINF:-1,K+ LIFE SV2
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/9.ts
+#EXTINF:-1,K+ SPORT1 SV2
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/10.ts
+#EXTINF:-1,K+ SPORT2 SV2
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/11.ts
+#EXTINF:-1,VTV1 HD
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/17.ts
+#EXTINF:-1,VTV3 HD
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/18.ts
+#EXTINF:-1,VTV5 HD
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/19.ts
+#EXTINF:-1,VTV6 HD
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/20.ts
+#EXTINF:-1,ON Sports
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/21.ts
+#EXTINF:-1,ON Sports+
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/22.ts
+#EXTINF:-1,ON Football
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/23.ts
+#EXTINF:-1,ON Sports News
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/24.ts
+#EXTINF:-1,ON Golf
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/25.ts
+#EXTINF:-1,K+ CINE SV3
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/26.ts
+#EXTINF:-1,K+ LIFE SV3
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/27.ts
+#EXTINF:-1,K+ SPORT1 SV3
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/28.ts
+#EXTINF:-1,K+ SPORT2 SV3
+http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/29.ts
+
+
+
+
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="LIVE360" tvg-logo="https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=480",KSPORT 1 HD
 http://donglao.duckdns.org:9981/stream/channelnumber/702?auth=Ptd2Who.Vvdp6zGqK1iRJfgZf1cI
 
@@ -87,58 +139,6 @@ http://laohac360.duckdns.org:9981/stream/channelid/448344454?auth=PWtEoWLBuCqX2j
 http://laohac360.duckdns.org:9981/stream/channelid/589016586?auth=PWtEoWLBuCqX2jPxmyiDdi79SUyI&profile=pass
 #EXTINF:-1 group-title="China" tvg-logo="https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg?w=480" tvg-id="69b98843b5e93130eeaede7d32fc8de6",China_Sport 3
 http://laohac360.duckdns.org:9981/stream/channelid/1133033833?auth=PWtEoWLBuCqX2jPxmyiDdi79SUyI&profile=pass
-
-
-
-
-
-
-#EXTINF:-1,K+ CINE
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/1.ts
-#EXTINF:-1,K+ KIDS
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/8.ts
-#EXTINF:-1,K+ LIFE
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/2.ts
-#EXTINF:-1,K+ SPORT1
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/3.ts
-#EXTINF:-1,K+ SPORT2
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/4.ts
-#EXTINF:-1,K+ LIVE 1 HD
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/13.ts
-#EXTINF:-1,K+ CINE SV2
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/16.ts
-#EXTINF:-1,K+ LIFE SV2
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/9.ts
-#EXTINF:-1,K+ SPORT1 SV2
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/10.ts
-#EXTINF:-1,K+ SPORT2 SV2
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/11.ts
-#EXTINF:-1,VTV1 HD
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/17.ts
-#EXTINF:-1,VTV3 HD
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/18.ts
-#EXTINF:-1,VTV5 HD
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/19.ts
-#EXTINF:-1,VTV6 HD
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/20.ts
-#EXTINF:-1,ON Sports
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/21.ts
-#EXTINF:-1,ON Sports+
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/22.ts
-#EXTINF:-1,ON Football
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/23.ts
-#EXTINF:-1,ON Sports News
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/24.ts
-#EXTINF:-1,ON Golf
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/25.ts
-#EXTINF:-1,K+ CINE SV3
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/26.ts
-#EXTINF:-1,K+ LIFE SV3
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/27.ts
-#EXTINF:-1,K+ SPORT1 SV3
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/28.ts
-#EXTINF:-1,K+ SPORT2 SV3
-http://plus.vthanhtivi.pw:80/maingochunganh/maingochunganh/29.ts
 
 
 #EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
