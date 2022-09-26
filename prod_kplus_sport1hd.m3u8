@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:5
 ## Created with Broadpeak BkS350 Origin Packager  (version=1.11.2-24244)
+#USP-X-TIMESTAMP-MAP:MPEGTS=2258677224,LOCAL=2022-09-26T08:42:28.037000Z
+#EXT-X-PROGRAM-DATE-TIME:2022-09-26T08:42:28.037075Z
+#EXT-X-KEY:METHOD=SAMPLE-AES,URI="https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=906e9041a9a147bd82acfcf8ed79e223&key=4fc131916459580a4b74f77ff79c6911",KEYFORMAT="com.apple.streamingkeydelivery",KEYFORMATVERSIONS="1"
 
 # AUDIO groups
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aacl-208",LANGUAGE="vi",NAME="Vietnamese",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
@@ -8,13 +11,13 @@
 
 # variants
 #EXT-X-STREAM-INF:BANDWIDTH=1555000,AVERAGE-BANDWIDTH=1414000,CODECS="mp4a.40.2,avc1.4D401F",RESOLUTION=640x360,FRAME-RATE=50,AUDIO="audio-aacl-208",CLOSED-CAPTIONS=NONE
-prod_kplus_sport1hd-audio_208482_vie=208000-video=1125200.m3u8
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/prod_kplus_sport1hd-audio_208482_vie=208000-video=1125200.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3146000,AVERAGE-BANDWIDTH=2860000,CODECS="mp4a.40.2,avc1.4D4020",RESOLUTION=1280x720,FRAME-RATE=50,AUDIO="audio-aacl-208",CLOSED-CAPTIONS=NONE
-prod_kplus_sport1hd-audio_208482_vie=208000-video=2490000.m3u8
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/prod_kplus_sport1hd-audio_208482_vie=208000-video=2490000.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=7677000,AVERAGE-BANDWIDTH=6979000,CODECS="mp4a.40.2,avc1.4D402A",RESOLUTION=1920x1080,FRAME-RATE=50,AUDIO="audio-aacl-208",CLOSED-CAPTIONS=NONE
-prod_kplus_sport1hd-audio_208482_vie=208000-video=6375200.m3u8
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/prod_kplus_sport1hd-audio_208482_vie=208000-video=6375200.m3u8
 
 # keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=164000,CODECS="avc1.4D401F",RESOLUTION=640x360,URI="keyframes/prod_kplus_sport1hd-video=1125200.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=363000,CODECS="avc1.4D4020",RESOLUTION=1280x720,URI="keyframes/prod_kplus_sport1hd-video=2490000.m3u8"
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=930000,CODECS="avc1.4D402A",RESOLUTION=1920x1080,URI="keyframes/prod_kplus_sport1hd-video=6375200.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=164000,CODECS="avc1.4D401F",RESOLUTION=640x360,URI="https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/keyframes/prod_kplus_sport1hd-video=1125200.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=363000,CODECS="avc1.4D4020",RESOLUTION=1280x720,URI="https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/keyframes/prod_kplus_sport1hd-video=2490000.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=930000,CODECS="avc1.4D402A",RESOLUTION=1920x1080,URI="https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/keyframes/prod_kplus_sport1hd-video=6375200.m3u8"
