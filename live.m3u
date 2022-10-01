@@ -571,7 +571,6 @@ https://sglivevega.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 
 
 
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml"
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ (VTVCab)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
