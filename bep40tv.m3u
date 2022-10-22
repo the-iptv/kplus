@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
+#EXTINF:-1,K+ Events Gapo (update 247)
+#EXTVLCOPT:http-referrer=https://www.gapo.vn/
+https://livestream-2.socialstreaming.tv/live/6353e69fc758d0001cd0e932/6353e69fc758d0001cd0e932.m3u8
 #EXTINF:-1,K+ CINE
 http://plus.vthanhtivi.pw/bep40tv/vt04peb/1.m3u8
 #EXTINF:-1,K+ LIFE
